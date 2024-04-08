@@ -1,0 +1,117 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+body{
+  background-color: #b7dddd;
+  margin: 30px 20px 10px 20px;
+  font-family: monserate;
+  /* line-height: 1; */
+}
+
+h2, h3, h4, h5, h6, li, p{
+  font-size: 1.2rem;
+  line-height: 2;
+}
+h1{
+  font-weight: 700;
+  color: rgb(11, 184, 196);
+  font-size: 50px;
+}
+
+h5{
+  color: #8f7a9b;
+}
+
+a{
+  text-decoration: none;
+}
+
+.summary {
+  color:rgba(56, 42, 42, 0.664);
+  padding: 5% 10%;
+  text-align: center;
+}
+.head {
+  color: grey;
+}
+
+.prf-img{
+  width: 30%;
+  margin: 20px;
+  
+}
+
+img{
+  border-radius: 100%;
+  width: 20%;
+  margin: 20px;
+  
+}
+table{
+  text-align: center;
+}
+
+.details {
+  background-image: linear-gradient(-90deg, #cf84fb, #35ced0);
+  padding: 5% 7%;
+}
+
+
+.work-exp {
+  /* padding: 20px; */
+  padding: 5% 7%;
+}
+
+.sales{
+border-bottom: 5px dotted gray;
+margin-bottom: 20px;
+padding-bottom: 20px;
+
+}
+
+.casual{
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+.edu{
+  padding: 5% 7%;
+}
+
+.skills{
+  margin-bottom: 20px;
+  padding: 5% 7%;
+}
+
+.lang{
+  margin-bottom: 20px;
+  padding: 5% 7%;
+}
+
+#Gallery{
+  font-weight: 500;
+  font-size: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #bb70e9;
+}
+
+#gallery-carousel {
+
+  background-image: linear-gradient(-90deg, #cf84fb, #35ced0);
+  text-align: center;
+}
+
+.footer-icon {
+  margin:20px 10px;
+  
+}
+
+
+footer{
+  text-align: center;
+  color: blue;
+  padding: 7% 15%;
+}
